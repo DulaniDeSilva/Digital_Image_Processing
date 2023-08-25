@@ -1,0 +1,11 @@
+Introduction to python
+Functions and librairs- numpy and matplotlib
+Image processing using opencv
+Operations on Images - Arithmetic and logical
+Intensity Transformation
+Image enhancement
+Image filters
+Morphological transformations
+Canny edge detection
+Fourier Transform
+Watershed and Color image processing
